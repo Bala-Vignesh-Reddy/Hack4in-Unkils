@@ -23,16 +23,17 @@ In this repository, we have created a versatile imaging device using Raspberry P
 
 ## Installation💻🔧
 1. Clone the repository
-   sh
+   ```sh
    !git clone https://github.com/ultralytics/yolov5.git
    
 2. Install required dependencies
-   sh
+   ```sh
    !pip install -r requirements.txt
    
 3. Run the app.py 
    ```sh
    streamlit run app.py
+   
 ## Features 🌟
 
 Our imaging device offers the following key features:
